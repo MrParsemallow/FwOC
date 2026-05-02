@@ -1,5 +1,15 @@
 # Clone an Existing Project
 
+## Install Git
+
+Download and install Git from the official website: https://git-scm.com/
+
+Run the installer and follow the default setup instructions.
+
+After installation, verify it works:
+
+    git --version
+
 If you already have a React project in a repository, you can clone it:
 
     git clone <repository-url>
