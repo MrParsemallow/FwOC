@@ -1,3 +1,25 @@
+# Clone an Existing Project
+
+If you already have a React project in a repository, you can clone it:
+
+    git clone <repository-url>
+
+Example:
+
+    git clone https://github.com/your-username/my-react-app.git
+
+Then move into the project folder:
+
+    cd my-react-app
+
+Install dependencies:
+
+    npm install
+
+Start the development server:
+
+    npm run dev
+
 # React Website Setup (with Vite)
 
 ## Requirements
