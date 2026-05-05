@@ -1,0 +1,9 @@
+.usersContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  background-color: rgba(16, 16, 16, 0.468);
+  border-radius: 12px;
+  margin: 20px;
+}
